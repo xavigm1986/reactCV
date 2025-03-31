@@ -61,7 +61,7 @@ export const Data = {
         period: "Julio 2021 - Septiembre 2023",
         company: "Seidor NTS",
         description: [
-          "Desarrollo de soluciones para Genesys Cloud.",
+          "Desarrollo de soluciones para Salesforce (Creación y modificación de flujos, campos, relaciones, traducciones) y para integraciones como Genesys Cloud.",
           "Análisis y solución de incidencias en diferentes proyectos.",
         ],
       },
