@@ -9,7 +9,7 @@ export const Data = {
   aboutMe: {
     label: "Perfil",
     description:
-      "Release Manager, encargado de publicación y despliegue de Merge y Pull Requests y preparación de paquetes para validaciones en diferentes entornos.",
+      "Release Manager, Integración CI/CD, encargado de publicación y despliegue de Merge y Pull Requests y preparación de paquetes para validaciones en diferentes entornos.",
   },
   skills: {
     technicalLabel: "Tecnologías",
