@@ -1,6 +1,6 @@
-// import { useState, useEffect } from "react";
-// import Particles from "react-particles-js";
-// import { ParticlesParams } from "../Schemas/Particles";
+import { useState, useEffect } from "react";
+import Particles from "react-particles-js";
+import { ParticlesParams } from "../Schemas/Particles";
 
 // export const Options = () => {
 //   var { lsTheme, lsIcon, lsSnow } = "";
