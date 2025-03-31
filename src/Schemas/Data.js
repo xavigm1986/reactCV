@@ -1,30 +1,25 @@
 export const Data = {
   profile: {
-    name: "Matias Lagos",
-    ocupation: "FullStack Software Developer",
-    location: "Santiago, Chile",
-    email: "lagos.matias25@gmail.com",
-    telephone: "+56 971999705",
-    image: "images/me.webp",
+    name: "Javier Garcia Martinez",
+    ocupation: "Salesforce Release Manager",
+    location: "Bilbao, Spain",
+    email: "inbox.javiergm@gmail.com",
+    image: "images/me.jpg",
   },
   aboutMe: {
     label: "Perfil",
     description:
-      "Analista Programador, capacitado para desarrollar aplicaciones informáticas en diversas tecnologías y múltiples lenguajes de programación, aplicando metodologías ágiles de desarrollo, incluyendo identificación de necesidades y diseños de sistemas basados en modelos de desarrollo.",
+      "Release Manager, encargado de publicación y despliegue de Merge y Pull Requests y preparación de paquetes para validaciones en diferentes entornos.",
   },
   skills: {
     technicalLabel: "Tecnologías",
     softLabel: "Skills",
     technicalSkills: [
-      "Angular",
-      "React",
-      "Java",
-      "Nodejs",
-      "Spring Boot",
-      "Nestjs",
-      "APIM",
-      "SQL",
-      "Git",
+      "Visual Studio Code",
+      "Github",
+      "Bitbucket",
+      "Gitlab",
+      "JIRA",
     ],
     softSkills: [
       "Capacidad de análisis",
@@ -42,16 +37,10 @@ export const Data = {
     label: "SOCIAL",
     social: [
       {
-        label: "Visitar el perfil de Matias Lagos en LinkedIn",
+        label: "Visita mi perfil en LinkedIn",
         name: "linkedin",
-        url: "https://www.linkedin.com/in/mlagosg",
+        url: "https://www.linkedin.com/in/javier-garcia-martinez/",
         className: "bxl-linkedin-square",
-      },
-      {
-        label: "Visitar el perfil de Matias Lagos en GitHub",
-        name: "github",
-        url: "https://github.com/Maaato",
-        className: "bxl-github",
       },
     ],
   },
