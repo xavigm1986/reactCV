@@ -14,7 +14,7 @@ export const Profile = ({
   console.log({ isMobileView })
   return (
     <section className="home section" id="home">
-      <Options />
+      {/* <Options /> */}
       <div className="home__container bd-grid">
         <div className="home__data bd-grid">
           <img src={image} alt="profile_image" className="home__img no-print" />
