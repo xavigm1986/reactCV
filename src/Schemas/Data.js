@@ -77,15 +77,20 @@ export const Data = {
     ],
     academic: [
       {
+        career: "Desarrollador Full Stack ",
+        date: "2020",
+        institution: "BBK Bootcamp",
+        description: [
+          "Preparación de clases para estudiantes desde PET a nivel B2.",
+          "Preparación y corrección de exámenes para estudiantes de nivel PET hasta nivel B2.",
+        ],
+      },
+      {
         career: "Grado en Estudios Ingleses",
         date: "2011-2015",
         institution: "Universitat de Valencia",
       },
-      {
-        career: "Desarrollador Full Stack ",
-        date: "2020",
-        institution: "BBK Bootcamp",
-      },
+      
     ],
     proyects: [
       {
