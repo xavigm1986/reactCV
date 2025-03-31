@@ -47,74 +47,69 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Oct. 2021 - Actualidad",
-        company: "Banco Ripley",
+        title: "RELEASE MANAGER",
+        period: "Septiembre 2023 - Actualidad",
+        company: "Seidor NTS",
         description: [
-          "Desarrollo y mejora continua de microservicios REST en Java y Node.js(JS/TS).",
-          "Desarrollo y mejora continua de PWA en las tecnologías Angular, Ionic y Cordova.",
-          "Canalización CI/CD con Bitbucket, Jenkins y AWS como infraestructura."
+          "Integración CI/CD con Gitlab y Bitbucket.",
+          "Revisión del contenido realizado por los desarrolladores del proyecto.",
+          "Creación, revisión y validación de paquetes de desarrollo para los diferentes entornos del proyecto."
         ],
       },
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Oct. 2019 - Oct. 2021",
-        company: "Altiuz",
+        title: "SALESFORCE DEVELOPER",
+        period: "Julio 2021 - Septiembre 2023",
+        company: "Seidor NTS",
         description: [
-          "Desarrollo de Web Services REST en Java y Nodejs(JS/TS) acompañado de diferentes motores de BD como Mysql, Oracle, MariaDB, MongoDB e IBM API Connect y 3scale como API Gateway.",
-          "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
+          "Desarrollo de soluciones para Genesys Cloud.",
+          "Análisis y solución de incidencias en diferentes proyectos.",
+        ],
+      },
+      {
+        title: "PROFESOR DE INGLÉS",
+        period: "Septiembre 2018 - Diciembre 2020",
+        company: "Speak English Academy",
+        description: [
+          "Preparación de clases para estudiantes desde PET a nivel B2.",
+          "Preparación y corrección de exámenes para estudiantes de nivel PET hasta nivel B2.",
         ],
       },
     ],
     academic: [
       {
-        career: "Técnico de Nivel Superior Analista Programador",
-        date: "2019",
-        institution: "Universidad Tecnológica de Chile INACAP",
+        career: "Grado en Estudios Ingleses",
+        date: "2011-2015",
+        institution: "Universitat de Valencia",
+      },
+      {
+        career: "Desarrollador Full Stack ",
+        date: "2020",
+        institution: "BBK Bootcamp",
       },
     ],
     proyects: [
       {
-        name: "Onboarding Digital",
-        company: "Banco de Chile",
-        period: "Nov. 2019 - Ene. 2020",
+        name: "Seidor NTS",
+        company: "Morabanc",
+        period: "Julio 2024 - Actualidad",
         description: [
-          "Control, desarrollo, securitización y despliegue de APIs en plataforma IBM API Connect.",
+          "Encargado de la validación y despliegue de código generado por los desarrolladores, así como preparación de paquetes para diferentes entornos.",
         ],
       },
       {
-        name: "Captación Digital",
-        company: "Banco Ripley",
-        period: "Ene. 2020 - Feb. 2020",
+        name: "Seidor NTS",
+        company: "Iberdrola",
+        period: "Septiembre 2023 - Julio 2024",
         description: [
-          "Control, desarrollo y securitización de APIs en plataforma IBM API Connect.",
-          "Desarrollo frontend en Angular para el consumo de Web Services SOAP/REST apuntando a ambientes DEV/PRE-PROD/PROD como simulación.",
+          "Encargado de la validación y despliegue de código generado por los desarrolladores, así como preparación de paquetes para diferentes entornos.",
         ],
       },
       {
-        name: "Agendamiento Remoto",
-        company: "Gobierno de Chile",
-        period: "Mar. 2020 - May. 2020",
+        name: "Seidor NTS",
+        company: "Klinc (a Zurich company)",
+        period: "Junio 2022 - Septiembre 2023",
         description: [
-          "Desarrollo frontend y mobile con las tecnologias de Angular 6 e Ionic 4 para el agendamiento de horas en centros a lo largo de todo Chile.",
-        ],
-      },
-      {
-        name: "Altiuz Report Dynamic",
-        company: "Altiuz",
-        period: "Jun. 2020 - Jul. 2020",
-        description: [
-          "Desarrollo de servicio Java para la generación unitaria de documentos, sin la necesidad de tener almacenada la información del mismo en una fuente de datos.",
-        ],
-      },
-      {
-        name: "Desarrollos Tigo",
-        company: "Computec S.A.S",
-        period: "Ago. 2020 - Dic 2020",
-        description: [
-          "Desarrollo Java/Spring Boot de Web Service API REST para consulta y descarga de documentos almacenados en repositorios IBM CMOD.",
-          "Desarrollo Java CRON para transferencia de documentos XML hacia servidor SFTP.",
-          "Desarrollo Java CRON para carga de documentos PDFs hacia Azure Blob Storage.",
+          "Aplicación de soluciones a incidencias generadas por los usuarios y agentes del proyecto Klinc de la compañía de seguros Zurich.",
         ],
       },
     ],
